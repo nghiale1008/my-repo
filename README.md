@@ -32,5 +32,6 @@
 
 6. Push Changes to GitHub:
     - Push the local commits to the GitHub repository:
+      git branch -M main
       git push -u origin master
 
